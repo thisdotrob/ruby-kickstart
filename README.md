@@ -1,3 +1,14 @@
+Makers Academy Precourse Weekend Challenge - Ruby Kickstart
+===========================================================
+
+Our final weekend challenge on the precourse was to complete as much of Ruby Kickstart as we could.
+
+This repo contains my solutions.
+
+TODO
+----
+Finish remainder of session 3, and complete sessions 4 to 6.
+
 Welcome to RubyKickstart!
 =========================
 
@@ -44,8 +55,8 @@ The course consists of six sessions, all of which have common features:
   Don't forget to run `rake <session_number>:<challenge_number>` as you go along for feedback on whether your solutions are correct, and once you've got all your tests passing, you can compare your solution to the solutions in the 'solved' section (next)
 
   If you have suggestions for further challenges, please create them and MAKE A PULL REQUEST!! :)
-  
-  Please put your answers in the challenges section. After completing the first two chapters, submit a pull request and Travis CI will check everything for you. 
+
+  Please put your answers in the challenges section. After completing the first two chapters, submit a pull request and Travis CI will check everything for you.
 
   **Solved & Specs**
   -------------------
